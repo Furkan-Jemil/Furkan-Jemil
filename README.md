@@ -4,7 +4,7 @@
 
 <td valign="top">
 <p>
-  👋 Hi, I’m <b>Furkan Jemil</b> — 4th-year Software Engineering student <sub>(Dire Dawa University)</sub><br/>
+  👋 Hi, I’m <b>Furkan Jemil</b> — <sup>4th-year Software Engineering student(DDU)</sup><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=400&lines=Software+Engineer;Full-Stack+Developer" alt="Typing Animation"/><br/>
  
 </p>
