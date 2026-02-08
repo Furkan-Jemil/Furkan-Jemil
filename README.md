@@ -64,7 +64,7 @@
 ### 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Furkan--Jemil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furkan-Jemil/Furkan-Jemil/)  
-[![Telegram](https://img.shields.io/badge/Telegram-@ibnu_jemil5-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@ibnu_jemil5)  
+[![Telegram](https://img.shields.io/badge/Telegram-@ibnu_jemil5-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibnu_jemil5)  
 [![Gmail](https://img.shields.io/badge/Gmail-furkanjemil54@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanjemil54@gmail.com)
 
 
